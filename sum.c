@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int sum = 0;
+int sum =200;
 for(int i = 0;i<5;i++)
 {
 sum+=i;
